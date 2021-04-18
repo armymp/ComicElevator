@@ -1,6 +1,6 @@
 # Final Capstone
 
-Worked With a team of 4 to develop a comic book collection web app in 10 days using Agile methodology, Java, SQL, Spring MVC, JDBC, and Vue.js. App allows users to register, login, create comic book collections, add and remove comics to collections by calling Marvel API, make collections, private share collections with other users, and follow other users.
+Worked With a team of 4 to develop a comic book collection web app in 10 days using Agile methodology, Java, SQL, Spring Boot, JDBC, and Vue.js. App allows users to register, login, create comic book collections, add and remove comics to collections by calling Marvel API, make collections, private share collections with other users, and follow other users.
 
 ![comic_elevator_home](https://user-images.githubusercontent.com/67810944/114958571-4994b280-9e31-11eb-8694-e8550d50821f.PNG)
 
